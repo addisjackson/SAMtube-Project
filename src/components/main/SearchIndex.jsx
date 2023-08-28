@@ -13,6 +13,7 @@ export default function SearchIndex(){
     const [videos, setVideos] = useState([]);
     const [videosLoaded, setVideosLoaded] = useState(false);
     const {query} = useParams();
+    const [searchQuery, setSearchQuery] = useState("")
 
     /** fetch data from api to the state hook */
     useEffect(()=>{
@@ -25,6 +26,10 @@ export default function SearchIndex(){
         }
         console.log(videos)
     },[]);
+
+    useEffect(()=>{
+        testAPI(8,query).then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
+    },[query])
 
     /** if video is loaded set videosLoaded to true */
     useEffect(()=>{
