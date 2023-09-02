@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "videoId": "video1",
+      "text": "This is a great video!",
+      "user": "User1"
+    },
+    {
+      "id": 2,
+      "videoId": "video2",
+      "text": "Thanks for sharing.",
+      "user": "User2"
+    },
+    // More comments...
+  ]
+  
