@@ -7,10 +7,11 @@
  */
 
 import { useEffect, useState } from "react"
-import testAPI from "../../api/fetch";
+import fetchVideos from "../../api/constants.js";
 import Video from "./Video";
-import { VideoCard } from "./VideoCard";
+import VideoCard from "./VideoCard";
 import { useParams } from "react-router";
+
 
 /**
  * VideoPlayerLayout()
@@ -21,10 +22,11 @@ import { useParams } from "react-router";
 export default function VideoPlayerLayout(){
     const [videos, setVideos] = useState([]);
     useEffect(()=>{
-        testAPI().then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
+        fetchVideos().then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
     },[]);
 
-    const { id } = useParams();
+    const { videoId } = useParams();
+    const video = videos.find((v)=> v.videoId  === videoId);
 
     return(
         <main>
@@ -35,7 +37,9 @@ export default function VideoPlayerLayout(){
                         {/** left column for video & comments & etc */}
                         <Video id={id}/>
                     </div>
-                    
+                    <div className='viodeo-detail'>
+                        <VideoDetail />
+                    </div>
                     <div className="col-md-3">
                         {/** right column for a list */}
                         {videos.map((video)=>(

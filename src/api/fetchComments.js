@@ -3,7 +3,7 @@ const API_URL = `https://www.googleapis.com/youtube/v3`;
 
 // fetch comments about a specific video
 
-const fetchComments = async (id = "", maxResults = 8) => {
+export const fetchComments = async (id = "", maxResults = 8) => {
     try {
      const response = await fetch(`${API_URL}/commentThreads?part=snippet&videoId=${id}&key=${API_KEY}&textFormat=plaintext&maxResults=${maxResults}`);
      if (!response.ok)
@@ -11,7 +11,7 @@ const fetchComments = async (id = "", maxResults = 8) => {
     
     const data = await response.json();
     const comments = data.items.map((item) => ({
-    author: 
+    commentAuthor: 
     item.snippet.topLevelComment.snippet.authorDisplayName,
     commentText:
     item.snippet.topLevelComment.snippet.textDisplay,
@@ -25,5 +25,4 @@ const fetchComments = async (id = "", maxResults = 8) => {
     console.error("Error fetching comments", error);
     return [];
 }
-
-module.exports = { fetchComments };
+}

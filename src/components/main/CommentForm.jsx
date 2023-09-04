@@ -1,13 +1,15 @@
 import React, { useState } from "react";
+import { postComment } from '../../api/constants.js'
 
-function CommentForm({ onAddComment }) {
-  const [author, setAuthor] = useState("");
+function CommentForm({ postComment }) {
+  const [commentAuthor, setCommentAuthor] = useState("");
   const [commentText, setCommentText] = useState("");
-
+  const [comments, setComments] = useState([]);
   const handleCommentSubmit = () => {
-    const comment = { author, text: commentText };
-    onAddComment(comment);
-    setAuthor("");
+    const comment = { author: commentAuthor, text: commentText };
+    postComment(comment);
+    setComments([...comments, comment]);
+    setCommentAuthor("");
     setCommentText("");
   };
 
@@ -16,8 +18,8 @@ function CommentForm({ onAddComment }) {
       <input
         type="text"
         placeholder="Your Name"
-        value={author}
-        onChange={(e) => setAuthor(e.target.value)}
+        value={commentAuthor}
+        onChange={(e) => setCommentAuthor(e.target.value)}
       />
       <textarea
         placeholder="Your Comment"

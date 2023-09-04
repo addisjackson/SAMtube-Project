@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from "react";
-import testAPI from "../../api/fetch";
+import fetchVideos from "../../api/constants"
 import VideoIndex from "./VideoIndex";
 import { useParams } from "react-router";
-
+import SideBar from '../nav/SideBar';
+import SideBarRow from '../nav/SideBarRow'
+import { google } from 'googleapis';
+import { LINK } from 'react-router-dom'
 function Main() {
   const [videos, setVideos] = useState([]);
   const [videosLoaded, setVideosLoaded] = useState(false);
@@ -13,9 +16,9 @@ function Main() {
       try {
         let response;
         if (!query) {
-          response = await testAPI();
+          response = await fetchVideos(8, videoId);
         } else {
-          response = await testAPI(8, query);
+          response = await fetchVideos(8, query);
         }
 
         const json = await response.json();
@@ -33,11 +36,18 @@ function Main() {
   return (
     <main>
       <div className="container-fluid mb-3">
+       <div className="row">
+        <div className="col-md-3">
+          <SideBar />
+        </div>
+        <div className="col-md-9">  
         {videosLoaded ? (
           <VideoIndex videos={videos} />
         ) : (
           <p>Loading videos...</p>
         )}
+      </div>  
+      </div>
       </div>
     </main>
   );

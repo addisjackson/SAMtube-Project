@@ -1,14 +1,19 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import VideoPlayerLayout from "./VideoPlayerLayout"; // Replace with your actual component
 import LikenDislikeButtons from "./LikenDislikeButtons"; // Replace with your actual component
 import CommentsSection from "./CommentsSection"; // Replace with your actual component
+import { fetchComments } from '../../api/constants'
 
 function VideoDetail() {
+  const [videoDetail, setVideoDetail] = useState(null)
   const [likes, setLikes] = useState(0);
   const [dislikes, setDislikes] = useState(0);
   const { videoId } = useParams(); // Get the videoId from the URL
 
+  useEffect(() => {
+    fetchVideos
+  })
   const handleLike = () => {
     setLikes(likes + 1);
   };

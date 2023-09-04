@@ -9,6 +9,14 @@ export default async function testAPI(maxResults = 8, query=""){
     return await fetch(`${API_URL}/search?part=snippet&key=${API_KEY}&maxResults=${maxResults}`);
 }
 
-
-
-https://youtube.googleapis.com/youtube/v3/commentThreads?key=[YOUR_API_KEY]
+export const getStatistics = async (videoID) => {
+    const response = await fetch(
+        `${API_URL}/videos?part=statistics&id=${videoId}&key=${API_KEY}`
+      );
+      if (!response.ok) {
+        throw Error('Failed to fetch video Statistics');
+      }
+      const data = await response.json();
+      const videos = data.items
+      return videos.statistics;
+}
