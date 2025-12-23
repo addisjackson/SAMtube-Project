@@ -1,58 +1,54 @@
-import { useEffect, useState } from "react"
-import {getSnippet} from "../../api/fetch";
+import { useEffect, useState } from "react";
+import { fetchSnippet } from "../../api/fetch";
 import VideoIndex from "./VideoIndex";
-import { useParams } from "react-router";
+import { useParams } from "react-router-dom";
 
 /**
  * SearchIndex()
  * ----------------------------------
- * it will contain the searched result from the api.
- * @returns 
+ * Displays searched results from YouTube API
  */
-export default function SearchIndex(){
-    const [videos, setVideos] = useState([]);
-    const [videosLoaded, setVideosLoaded] = useState(false);
-    const {query} = useParams();
+export default function SearchIndex() {
+  const [videos, setVideos] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const { query } = useParams();
 
-    /** fetch data from api to the state hook */
-    useEffect(()=>{
-        console.log("query is"+query);
-        if(!query){
-            getSnippet().then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
-        }
-        else{
-            getSnippet(8,query).then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
-        }
-        console.log(videos)
-    },[]);
+  useEffect(() => {
+    const fetchSearchResults = async () => {
+      setLoading(true);
 
-    /** will reloaded if url changed */
-    useEffect(()=>{
-        getSnippet(8,query).then((response)=>response.json()).then((json)=>setVideos(json.items)).catch((err)=>console.error(err));
-    },[query])
+      try {
+        const data = query
+          ? await fetchSnippet(8, query)
+          : await fetchSnippet();
 
-    /** if video is loaded set videosLoaded to true */
-    useEffect(()=>{
-        console.log(videos);
-        if(videos){
-            setVideosLoaded(true);
-        }
-        else{
-            setVideosLoaded(false);
-        }
-    },[videosLoaded]);
+        setVideos(data?.items || []);
+      } catch (err) {
+        console.error("Search fetch failed:", err);
+        setVideos([]);
+      } finally {
+        setLoading(false);
+      }
+    };
 
-    return(
-        <div>
-            <div>
-                <p>
-                    searched result for "{`${query}`}"
-                </p>
-            </div>
-            <div className="container-fluid mb-3" >
-                {/* if video is properly loaded, render VideoIndex.jsx */}
-                {videosLoaded ? (<VideoIndex videos={videos} />):(<p>page is not properlly loaded</p>)}
-            </div>
-        </div>
-    )
+    fetchSearchResults();
+  }, [query]);
+
+  return (
+    <div>
+      <div>
+        <p>
+          Search results for "<strong>{query}</strong>"
+        </p>
+      </div>
+
+      <div className="container-fluid mb-3">
+        {loading ? (
+          <p>Loading search results…</p>
+        ) : (
+          <VideoIndex videos={videos} />
+        )}
+      </div>
+    </div>
+  );
 }

@@ -1,23 +1,23 @@
-import { useEffect, useState } from "react"
-import { VideoCard } from "./VideoCard";
+import VideoPlayerList from "./VideoPlayerList";
 
-/**
- * VideoIndex()
- * -----------------------------------
- * a container for the list of videos.
- * @param {*} param0 
- * @returns 
- */
-export default function VideoIndex({videos}){
-    return(
-        <div className="row">
-                    {videos.map((video)=>
-                        (<div className="col-md-3 col-sm-12 p-2">
-                            <div className="card h-25 w-100" key={video.id.videoId} >
-                                <VideoCard video={video}/>
-                            </div>
-                        </div>)
-                    )}
-        </div>
-    )
+export default function VideoIndex({ videos, loading, lastVideoRef }) {
+  return (
+    <div className="video-grid">
+      {videos.map((video, index) => {
+        const isLast = index === videos.length - 1;
+
+        return (
+          <div
+            ref={isLast ? lastVideoRef : null}
+            key={video.id.videoId}
+            className="video-card-wrapper"
+          >
+            <VideoPlayerList video={video} />
+          </div>
+        );
+      })}
+
+      {loading && <p>Loading more videos...</p>}
+    </div>
+  );
 }

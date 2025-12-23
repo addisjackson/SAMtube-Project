@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Ou2_1X8Wq83M4OuAmsMQEuB5wyA",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gxc-q5ukmC_0xH9v2uba9WJ7Yvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RCo-k8hNKWg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-26T22:12:10Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "ranking the BEST old SINGING moments",
+        "description": "5 - yuvalmeidan_ 4 - mngnzls 3 - jebunggg 2 - chrishoffish 1 - rushawn #trendingsong #singing #cover #singers #suaveee ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCo-k8hNKWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCo-k8hNKWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCo-k8hNKWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-26T22:12:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PHzhPpMIQv3jdHG-YHghsG4Y8Us",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IdA7e8bZ_rw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-03T07:26:36Z",
+        "channelId": "UCQNDRIgJ_g1mGLeHIw49oPw",
+        "title": "100% You and i#Youandi #cover #singer #music #song",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdA7e8bZ_rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdA7e8bZ_rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdA7e8bZ_rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ViralVarietyVault",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-03T07:26:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "raKd7lCW_YeEbCSO7z4pMfErLi8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TnwDzvUyfQM"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T16:18:20Z",
+        "channelId": "UC-7Hvkj-MhK7TPOXT7WEAIQ",
+        "title": "wasn’t expecting that AT ALL 😳 #singing #music #cover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TnwDzvUyfQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TnwDzvUyfQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TnwDzvUyfQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sami rose 🌹",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T16:18:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AJk6gC0kJy0_jKgShvr-brdXbn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QfRLU_HrmgE"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-27T19:51:46Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the Best Singing Moments EVER",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfRLU_HrmgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfRLU_HrmgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfRLU_HrmgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-27T19:51:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tAUSQH6Wpwq6xom5BaCT5nMcVbo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cVp7xh7K7WA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-22T02:35:26Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "ranking the SCARIEST singing moments",
+        "description": "4 - trannot 3 - laurenpaley 2 - katerinalomis 1 - greg_fountaine #hoistthecolours #scary #singing #cover #singing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVp7xh7K7WA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVp7xh7K7WA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVp7xh7K7WA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-22T02:35:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ytXBt0CWUkM7gDjmPtxfZwBFuHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dStO4RTVaWk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T18:35:35Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the BEST Singing Moments in Existence",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dStO4RTVaWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dStO4RTVaWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dStO4RTVaWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T18:35:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vl3VMsIc5RzGeD__zBMv-kyfz-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SDd3AyocuxU"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-16T01:35:01Z",
+        "channelId": "UCQNDRIgJ_g1mGLeHIw49oPw",
+        "title": "100%heartattack#heartattack #cover #singer #music #song",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SDd3AyocuxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SDd3AyocuxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SDd3AyocuxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ViralVarietyVault",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-16T01:35:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uXqWkTCJCzVsLgVHr5Cv2aSs6A8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pjKEkN4Hw6w"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T17:21:18Z",
+        "channelId": "UC5sxmo1vSUvbTSTjIhDbVoA",
+        "title": "Ranking UNEXPECTED SINGING voices! 🤩 #shorts",
+        "description": "Ranking UNEXPECTED SINGING voices! Which one did you like the most ?Tell us in the comments #ranking #unexpected ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pjKEkN4Hw6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pjKEkN4Hw6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjKEkN4Hw6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Just Ranked",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T17:21:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mzixLJVKUOTzVtwKPrG_IsaKFS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "igEph7a4xjw"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T07:00:45Z",
+        "channelId": "UCs9ZtPGgqjAapuz7z7N2aBg",
+        "title": "Top 5 Singing Moments That Gave Everyone Chills 🎤🔥 #shorts",
+        "description": "Number 1 had the whole crowd silent… and then screaming!” #Top5Pulse #ViralSingers #SingingMoments #BestVocals ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/igEph7a4xjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/igEph7a4xjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/igEph7a4xjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "top5pulse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T07:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AL7l1zY3xBw89d6dv9cq7miS4hw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RJYDUjoEAuw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-02T18:36:57Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "ranking the best KIDS SINGING moments",
+        "description": "4 - justinvasquez 3 - alfieandrewmusic 2 - evan riley - cheryl porter 1 - leonie - the voice kids #thinkingoutloud #myheartwillgoon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RJYDUjoEAuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RJYDUjoEAuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RJYDUjoEAuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-02T18:36:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lqk38hheI9WM0NbtM2yTgdO4Jp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qYupP-lp62I"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-08T18:46:01Z",
+        "channelId": "UCHGqo6YC7FB_jVHX79ftyXA",
+        "title": "Best Singing Moments💀 #ranking #singing #tiktoktrend",
+        "description": "Best tiktok trend singing moments caught on camera.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYupP-lp62I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYupP-lp62I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYupP-lp62I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CuriosTik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-08T18:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0aTBgfER_pVt_e69HUClx2qkdAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nh__MlfLSzo"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T10:31:06Z",
+        "channelId": "UCUcNnCW8Os9Z62HDOG2ZzOA",
+        "title": "Power - LittleMix (Thekksisters cover) #shorts #music #singing #cover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nh__MlfLSzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nh__MlfLSzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nh__MlfLSzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music_box40",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T10:31:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IfZX_mxoqrsA55Dq7w7yPOpIzHw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UueFn2eUjE8"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-09T19:23:45Z",
+        "channelId": "UC2Yy_ZcisZbONOCBag8zYUQ",
+        "title": "SINGING IN RANDOM DISCORD VCS 😭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UueFn2eUjE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UueFn2eUjE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UueFn2eUjE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angelica Hale",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-09T19:23:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U4UKvDBD1twz8Gyqby7wOr_zfMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VahTW6fc7Ys"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-25T11:57:22Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the Best Singing Moments in History",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VahTW6fc7Ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VahTW6fc7Ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VahTW6fc7Ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-25T11:57:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Um9QX8hT8hWNREiKmdXIwvJ31bI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HNfPk2l9cyA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-04T09:17:39Z",
+        "channelId": "UChqGj1JrEuyJ8UsP3lXZpeg",
+        "title": "Ranking the best Filipino &quot;Heart Attack&quot; Singing Moments 🎤😍#shorts #shortvideo #talent #singing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HNfPk2l9cyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HNfPk2l9cyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HNfPk2l9cyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "top5Rndms",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-04T09:17:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hhgwl27gEYG0HUrtat0HI6ft1vY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5auoXiJcZW0"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-10T15:55:44Z",
+        "channelId": "UCiuFR-m7cy1GW-JMMYBd1TQ",
+        "title": "11 Year Old SINGS her HEART out BEAUTIFUL THINGS Benson Boone w/Vocal Coach!! #cover #singer",
+        "description": "Are YOU ready to take your voice to the NEXT LEVEL? ✨ MAMA CHERYL's Big Singer Sale is here! Each course → $59!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5auoXiJcZW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5auoXiJcZW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5auoXiJcZW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cheryl Porter Vocal Coach",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-10T15:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xQrF5rS42tD8OyBBrghwJXQLQag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bV6S7dWRq2Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-19T12:25:59Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the Best Singing Voices in History",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bV6S7dWRq2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bV6S7dWRq2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bV6S7dWRq2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-19T12:25:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jJd9micxnC-pKP5_37zchaZi6Ms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ulrfn2xpGYA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-20T16:30:08Z",
+        "channelId": "UC1eWckof60DN_bq3dT1glTw",
+        "title": "Ranking The Best Singing Moments Ever😮",
+        "description": "singing #ranking #shorts Credits to : @jvckdean @dasteveharvey1 @jakecornelll via Tiktok.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulrfn2xpGYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulrfn2xpGYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulrfn2xpGYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KazeMoment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-20T16:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3pSZ5iDlxzwm-VrDlVuahfM-QQI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NjlpDzHK_nk"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-15T10:09:52Z",
+        "channelId": "UC8ht5VipsE5PiiqfqyjfGqA",
+        "title": "Ranking Best “Unexpected Singing” Moments 🎤🤩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NjlpDzHK_nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NjlpDzHK_nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NjlpDzHK_nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Everyday Ranked",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-15T10:09:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YsqiCtc4V1LBx57ufiDr8VcPlHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G6JkKYs9VyA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T14:12:40Z",
+        "channelId": "UCQ1SonyKvCPN_GUmnt5UFwA",
+        "title": "Power - Little Mix ( Kerry-Ann &amp; Katelyn ) wait for the high note. #cover #singing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G6JkKYs9VyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G6JkKYs9VyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G6JkKYs9VyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HIGH ON MUSIC ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T14:12:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yvXx5axeb8jd1YdfFuWFGJw05Z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NLQoWswr7ik"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-12T20:00:22Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "Who is singing? - Song: Mary on a Cross",
+        "description": "1 - margauxbeylier 2 - sofia.peters 3 - andrea_bejar 4 - aliblackbet #maryonacross #ghost #singing #cover #singers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLQoWswr7ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLQoWswr7ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLQoWswr7ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-12T20:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zzioIseNeOB9cum7EYPs8QqtN3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y8l67f4NHAw"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-27T05:08:00Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "I made them all sing &#39;Beautiful Things&#39; together #beautifulthings  #bensonboone  #singing  #cover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y8l67f4NHAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y8l67f4NHAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y8l67f4NHAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-27T05:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C4A8G-wfHogkbrcYD7o0waVgGYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hNUYFDCGSAc"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-24T19:44:44Z",
+        "channelId": "UC2Yy_ZcisZbONOCBag8zYUQ",
+        "title": "singing for people on ROBLOX?!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNUYFDCGSAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNUYFDCGSAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNUYFDCGSAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angelica Hale",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-24T19:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lsZjSl7QXqJmgFnajC8fPIiRAho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Elj-HX-YZNE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-11T16:45:01Z",
+        "channelId": "UCpDlBs3dXNnpvgrNEm31cHA",
+        "title": "Their voices sound unreal!😱👀",
+        "description": "Credit: TT/ daisythegreat #singer #singing #music #youbelongtome #tiktok #covermusic #cover #coversong #talent #usa #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Elj-HX-YZNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Elj-HX-YZNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Elj-HX-YZNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Singers Square",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-11T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C_kFyQ1pC2ZjXYkst36QfSs0Ymo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sfm_opKWJN4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-16T15:33:15Z",
+        "channelId": "UCQ1SonyKvCPN_GUmnt5UFwA",
+        "title": "Martin Garrix &amp; Bebe Rexha - In The Name Of Love ( Gabrielle - cover ) #cover #singing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sfm_opKWJN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sfm_opKWJN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sfm_opKWJN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HIGH ON MUSIC ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-16T15:33:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3uhXkTVLbEhz_37TXFGgHPDWpxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5fzsp9yjKeU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T14:20:57Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the Best Majestic Singing Moments",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5fzsp9yjKeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5fzsp9yjKeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5fzsp9yjKeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T14:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A1B_VniNOOMXeqnrPA8fLTBwp54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bTMOyxCNceg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-12T01:12:19Z",
+        "channelId": "UC_RI1QsBu9Wdaln2Wv-27Tw",
+        "title": "Singers Sing Their Songs Without Autotune #autotune #singing #WithoutAutotune #music",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTMOyxCNceg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTMOyxCNceg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTMOyxCNceg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ReeleRiddles",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-12T01:12:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_vgy2AILBnZbRKw_3cG7N75MxUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DIZZ1ITqUDw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-20T22:33:11Z",
+        "channelId": "UC80YKwQIiycugM-zLsc3GCg",
+        "title": "Ranking the best singing voices ever #music #cover #emotional #talent #singer #voice",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIZZ1ITqUDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIZZ1ITqUDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIZZ1ITqUDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Melodic charms",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-20T22:33:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7q_bHkCB6PHsWmuiwN2pY5HQftU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pRdC7xCNKAI"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-03T11:04:16Z",
+        "channelId": "UCnP9iBv_IGipAckyY0hirMQ",
+        "title": "how to sing like Sabrina Carpenter",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pRdC7xCNKAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pRdC7xCNKAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pRdC7xCNKAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AmaZane Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-03T11:04:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rY5Dikqn-uZvsbkZ3CvvjfeNz_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K7skqiJ7o-8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-10T23:54:37Z",
+        "channelId": "UCWcavFNNVSAN--cj_rkggTg",
+        "title": "Ranking The Best Singing Moments Part 4 #ranking",
+        "description": "These are the best singing moments ranked.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7skqiJ7o-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7skqiJ7o-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7skqiJ7o-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blind Rating",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-10T23:54:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BvBJwMCxaSjQCoBq15V02lJvqXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4yRcdTz4lqY"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-12T11:42:24Z",
+        "channelId": "UCUkKbWIyKDSzdeE7pzYcrVA",
+        "title": "Ranking the BEST Singing Moments",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4yRcdTz4lqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4yRcdTz4lqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4yRcdTz4lqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VariRanks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-12T11:42:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ealwoLsdUUa5IDJth7r4ss39qag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ciuf7bNf6Iw"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-17T16:17:27Z",
+        "channelId": "UCfAk46FBm_DEqFCmU-7euJQ",
+        "title": "Ranking the BEST Unexpected Singing Moments Ever",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ciuf7bNf6Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ciuf7bNf6Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ciuf7bNf6Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daylon Ranks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-17T16:17:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QGd_v3-vRXFTjxtsDe3-WgN6Twk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mRga2V54C2Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-09T02:08:08Z",
+        "channelId": "UCj_lC7EqHhmjOeqI5rXh4mg",
+        "title": "HARDEST RIFF TO SING… #viralreels #viraltiktok #belting #americasgottalent #xfactor #demilovato",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mRga2V54C2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mRga2V54C2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRga2V54C2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lana Carter ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-09T02:08:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MMfWjHZ6I09jQKPdewRZiRjOimY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOiTaLghsPY"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-13T10:01:37Z",
+        "channelId": "UCPl2ybwLHJoUlcLHOh3TgLA",
+        "title": "Ranking Best Singing Moments",
+        "description": "Some of the best singing moments ranked.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOiTaLghsPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOiTaLghsPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOiTaLghsPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheRankRitual",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-13T10:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i4IsebArdiSRRk_6SuirIeAALRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CryYLLuUBC0"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-06T02:05:25Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "I made them all sing &#39;Stay&#39; together #stay  #rihanna  #singers  #covers  #singing  #song",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CryYLLuUBC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CryYLLuUBC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CryYLLuUBC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-06T02:05:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-7UWGrUCB8vRuFVdwFA1DefBio0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ce1CYmuWcBc"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-19T23:29:44Z",
+        "channelId": "UCiuFR-m7cy1GW-JMMYBd1TQ",
+        "title": "Little Girl LOSES IT when she messes up ESPRESSO RIFF w/ Vocal Coach!!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ce1CYmuWcBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ce1CYmuWcBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ce1CYmuWcBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cheryl Porter Vocal Coach",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-19T23:29:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bidfUE-2cBtzI0awQwKR1l0MuuI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AoSayVjlSmU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T21:05:23Z",
+        "channelId": "UC5sxmo1vSUvbTSTjIhDbVoA",
+        "title": "Ranking UNEXPECTED SINGING voices! 🤩 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoSayVjlSmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoSayVjlSmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoSayVjlSmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Just Ranked",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-10T21:05:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uQJSPq9w1cbbNhbW1mZP_BtVCoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RPA6ZXvcY0U"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-17T19:52:22Z",
+        "channelId": "UCe1VpF4wS_kdcjyTRSXBcnQ",
+        "title": "Sing-along Songs for Kids | The Singing Walrus | 39 Minutes",
+        "description": "Subscribe to our website for $3.99 USD monthly / $39.99 USD yearly! Watch all of our videos ad free, plus weekly printables and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPA6ZXvcY0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPA6ZXvcY0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPA6ZXvcY0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Singing Walrus - English Songs For Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-17T19:52:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nREquK8HnZ2QCazIN08JPMwxwL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dUXk8Nc5qQ8"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-23T21:11:20Z",
+        "channelId": "UCe1VpF4wS_kdcjyTRSXBcnQ",
+        "title": "Action Songs for kids | The Singing Walrus",
+        "description": "Subscribe to our website for $3.99 USD monthly / $39.99 USD yearly! Watch all of our videos ad free, plus weekly printables and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dUXk8Nc5qQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dUXk8Nc5qQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dUXk8Nc5qQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Singing Walrus - English Songs For Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-23T21:11:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4_0cwxKbek0DGQHcq6FcBVDV9Iw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S2sHOXK1NE4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-14T20:00:09Z",
+        "channelId": "UCdXHcxE1gMec19rHXzpIgZQ",
+        "title": "WHO HAS THE BEST SINGING VOICE CHALLENGE 🤩😱 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2sHOXK1NE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2sHOXK1NE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2sHOXK1NE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nathan Davis Jr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-14T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SB_Tn5GAt6Hb6Q0ovYCWJ39tX_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QrP7P3LQU6Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-25T12:42:34Z",
+        "channelId": "UCUcNnCW8Os9Z62HDOG2ZzOA",
+        "title": "Harleys In Hawaii - Katy Perry (Sami Rose cover) #shorts #harleyinhawaii #music #cover",
+        "description": "Wow! She sings so well! …… Harleys In Hawaii (cover) video credit - Sami Rose #shorts #harleyinhawaii #katyperry #music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrP7P3LQU6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrP7P3LQU6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrP7P3LQU6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music_box40",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-25T12:42:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WXH8nZ63mXAgNgt_Q2MJPBA7DDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nkUXY__jds"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-20T04:13:02Z",
+        "channelId": "UCFDkobkdoSbSQK1Ydim8Sqg",
+        "title": "How do people do this??? #christmas #singer #snowman #cover #challenge #shorts #fyp #music #sia",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nkUXY__jds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nkUXY__jds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nkUXY__jds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gia Sings",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-20T04:13:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-0FRug3bq5qgFMvT5o-VZx8Tqsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MqNmH_woYpM"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-11T18:10:13Z",
+        "channelId": "UCWP9HpP_ut7HiHyS9k273Sw",
+        "title": "Singing with friends 😍 #song #unexpected #singing #voice #vocals #talents",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MqNmH_woYpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MqNmH_woYpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqNmH_woYpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Harmony Heaven",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-11T18:10:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rstrE6y0BgH3-kmq52jlUL1tbIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v_TuKS16Vzw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-07T19:10:21Z",
+        "channelId": "UC_oMKGSjJp838-WKqp0phiQ",
+        "title": "I GOT JUDGED ON MY SINGING😅 #singing #shortsfeed",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v_TuKS16Vzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v_TuKS16Vzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_TuKS16Vzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brianna Mizura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-07T19:10:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OL6IKCpEpO7i_mMAs-PgnezNiU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JyWvzdscj_A"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T01:02:30Z",
+        "channelId": "UCKFRhrZHhwsL-vpmgbk35dg",
+        "title": "Top 5 Unexpected Singing Voices  #singing #songs #cover #voice #ranking",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JyWvzdscj_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JyWvzdscj_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JyWvzdscj_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VibeScreen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T01:02:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G75BY9SDFMy3izoyZZz9-D390HQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcwBAi0SmR4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-28T14:45:56Z",
+        "channelId": "UCVnc0Bv2vzN8_44tZIaGqlg",
+        "title": "PERFECT❤️ Ed Sheeran Singing Challenge🎙️",
+        "description": "PERFECT❤️ Ed Sheeran Singing Challenge🎙️ Ed Sheeran Perfect Ed Sheeran perfect cover Ed sheeran perfect karaoke Ed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcwBAi0SmR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcwBAi0SmR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcwBAi0SmR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kayred",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-28T14:45:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TFo1RMv7BEURx0OuXER_PIGVINw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DCuVVl2UhSE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T15:38:02Z",
+        "channelId": "UCZksxIlSFN7baKcfJ1MZo5w",
+        "title": "singing challenge quartet part:2 #singer #trendingshorts #shots #youtube",
+        "description": "Singing Challenge quartet part:2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DCuVVl2UhSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DCuVVl2UhSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCuVVl2UhSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Rave",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T15:38:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cQ61fjqNb-nUxj18ydNW719k2jY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Z-WGPZRkmw"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T02:00:06Z",
+        "channelId": "UCySFrjPeacld4UVQdwbG8oQ",
+        "title": "Best Unexpected Singing: Jaw-Dropping 🎤😲",
+        "description": "Get ready to be amazed by *Best Unexpected Singing*! This YouTube Shorts ranks the TOP 5 unexpected singing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Z-WGPZRkmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Z-WGPZRkmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Z-WGPZRkmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SquirmZone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T02:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRMmXQqvVcZnHkxVxj0u6y3j1GE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nqst-lDr4zw"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-24T23:09:26Z",
+        "channelId": "UCC8oUgbn5EKIrHKYPlXKvPw",
+        "title": "I made them all sing Arcade together #arcade #duncanlaurence #singing #song #music #singers #cover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nqst-lDr4zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nqst-lDr4zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nqst-lDr4zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wind Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-24T23:09:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CE4XTVho7JPt8b2qWQsmJWv0FoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IV3Yt9Fo1fA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-11T19:12:26Z",
+        "channelId": "UCc4ia9nn3QZhrgPW8FsszSA",
+        "title": "HOW WAS MY SINGING??😘 #ellahperry #singing #relatable #shorts #feed #jk #viral #youtubeshorts #sing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IV3Yt9Fo1fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IV3Yt9Fo1fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IV3Yt9Fo1fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ellah Perry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-11T19:12:26Z"
+      }
+    }
+  ]
+}

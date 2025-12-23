@@ -1,33 +1,22 @@
-import { useState } from 'react'
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Main from "./components/main/Main";
 import Nav from './components/nav/Nav'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Main from './components/main/Main';
+import Footer from "./components/commons/Footer";
 import About from './components/commons/About';
-import Footer from './components/commons/Footer';
-import VideoPlayerLayout from './components/main/VideoPlayerLayout';
 import SearchIndex from './components/main/SearchIndex';
+import VideoPlayerLayout from './components/main/VideoPlayerLayout';
 
-/**
- * App()
- * ------------------------------------------
- * ToDo: need to create routes after finishing components.
- * @returns 
- */
-function App() {
+export default function App() {
   return (
-    <div className="wrapper">
-      <BrowserRouter>
-        <Nav />
-        <Routes >
-          <Route path="/" element={<Main />} />
-          <Route path="/search/:query" element={<SearchIndex />} />
-          <Route path="/about" element={<About />}/>
-          <Route path="/show/:id" element={<VideoPlayerLayout />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
-    </div>
-  )
+    <Router>
+      <Nav />
+      <Routes>
+        <Route path="/about" element={<About />}/>
+        <Route path="/*" element={<Main />} />
+        <Route path="/search/:query" element={<SearchIndex />} />
+        <Route path="/show/:id" element={<VideoPlayerLayout />} />
+      </Routes>
+      <Footer />
+    </Router>
+  );
 }
-
-export default App
